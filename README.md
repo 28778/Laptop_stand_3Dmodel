@@ -10,6 +10,8 @@ As you can see, this is a computer stand.
 2.正如你想的那样，就是这样用的。
 
 It's used just as you might have guessed.
+
+3.不止这些，还有更多有趣的在这个库里面。
 ```
 
 ## 🤷怎么用：
