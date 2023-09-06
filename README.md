@@ -13,7 +13,7 @@ It's used just as you might have guessed.
 ```
 
 ## 🤷怎么用：
-### 1️⃣Step1 - Solidworks
+### 1️⃣Solidworks
 ```
 1.将全部零件的文件克隆到本地。
 
@@ -27,7 +27,7 @@ Open all the files using SolidWorks.
 
 Export the files as STL file types.
 ```
-### 2️⃣Step2 - 3D_printing
+### 2️⃣3D_printing
 ```
 
 4.将文件导入到例如“Repetier-Host”的软件里面。
