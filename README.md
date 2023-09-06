@@ -1,4 +1,4 @@
-# Laptop_stand_3Dmodel
+# Laptop_stand_3Dmodel_3Dprinting
 一个笔记本电脑的支架的3D模型，使用Solidworks制作。
 
 ## 💭有什么用：
