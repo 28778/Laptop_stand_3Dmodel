@@ -12,6 +12,8 @@ As you can see, this is a computer stand.
 It's used just as you might have guessed.
 
 3.不止这些，还有更多有趣的在这个库里面。
+
+There's more than just these; there are plenty of other interesting things in this repository.
 ```
 
 ## 🤷怎么用：
