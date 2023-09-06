@@ -4,16 +4,40 @@
 ## 💭有什么用：
 ```
 1.正如你所看到的，这是一个电脑支架。
+
+As you can see, this is a computer stand.
+
 2.正如你想的那样，就是这样用的。
+
+It's used just as you might have guessed.
 ```
 
 ## 🤷怎么用：
+### 1️⃣Step1 - Solidworks
 ```
 1.将全部零件的文件克隆到本地。
+
+Clone all the files of the components to your local machine.
+
 2.将所有文件使用solidworks打开。
+
+Open all the files using SolidWorks.
+
 3.将文件导出为STL文件类型。
+
+Export the files as STL file types.
+```
+### 2️⃣Step2 - 3D_printing
+```
+
 4.将文件导入到例如“Repetier-Host”的软件里面。
+
+Import the files into software like "Repetier-Host," for example.
+
 5.开始3D打印。
+
+Start 3D printing.
+
 ```
 
 ## 🎞️模型快照 Snapshoot
